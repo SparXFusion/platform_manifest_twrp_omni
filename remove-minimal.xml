@@ -5,7 +5,6 @@
     <remove-project name="platform/art" />
     <remove-project name="platform/compatibility/cdd" />
     <remove-project name="platform/cts" />
-    <remove-project name="platform/dalvik" />
 
     <remove-project name="platform/external/abi-compliance-checker" />
     <remove-project name="platform/external/abi-dumper" />
@@ -31,7 +30,6 @@
     <remove-project name="platform/external/chromium-webview" />
     <remove-project name="platform/external/cmockery" />
     <remove-project name="platform/external/crcalc" />
-    <remove-project name="platform/external/cros/system_api" />
     <remove-project name="platform/external/curl" />
     <remove-project name="platform/external/dagger2" />
     <remove-project name="platform/external/deqp" />
@@ -201,7 +199,6 @@
     <remove-project name="platform/external/v4l2_codec2" />
     <remove-project name="platform/external/v8" />
     <remove-project name="platform/external/vboot_reference" />
-    <remove-project name="platform/external/vixl" />
     <remove-project name="platform/external/vogar" />
     <remove-project name="platform/external/volley" />
     <remove-project name="platform/external/vulkan-validation-layers" />
